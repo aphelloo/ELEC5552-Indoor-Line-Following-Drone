@@ -1,6 +1,5 @@
 
 # ELEC5551 Electrical Design Project Part 2
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5a626b37-6653-443f-b210-c34e8137d947" alt="Project Overview" width="300">
 </p>
