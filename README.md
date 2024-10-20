@@ -14,10 +14,9 @@ The UWA Aviation Labs (UWAAL) consists of staff and students dedicated to develo
 | 3D CAD Design             | For any 3D Printed Components              |
 | Code                      | Includes pseudocode, code-flow diagrams, and programming files                               |
 | Construction and Risks    | Documentation on construction procedures and risk assessments associated with the project |
-| Libraries                 | Libraries required for KiCAD to open any programs or any hardware layouts            |
 | PCB Layout                | PCB Layout                            |
 | Schematics                | Schematics for drone, outlining the various connections                           |
-| Simulations               | Simulations to test various aspects of the project                        |
+| Manual                    | Instructions for operation, safety and maintenance                     |
 
 ## Required Applications
 * INCLUDE ANY SOFTWARE PACKAGES FOR DRONE RELATED PROGRAMMING
