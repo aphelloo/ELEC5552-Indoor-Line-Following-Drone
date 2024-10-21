@@ -11,7 +11,7 @@ The UWA Aviation Labs (UWAAL) consists of staff and students dedicated to develo
 
 | Section                   | Description                                                               |
 | ------------------------- | ------------------------------------------------------------------------- |
-| 3D CAD Design             | For any 3D Printed Components              |
+| 3D CAD Design             | For 3D Printed Shroud Design              |
 | Code                      | Includes pseudocode, code-flow diagrams, and programming files                               |
 | Construction and Risks    | Documentation on construction procedures and risk assessments associated with the project |
 | PCB Layout                | PCB Layout                            |
