@@ -18,15 +18,20 @@ The UWA Aviation Labs (UWAAL) consists of staff and students dedicated to develo
 | Schematics                | Schematics for drone, outlining the various connections                           |
 
 ## Required Applications
-* INCLUDE ANY SOFTWARE PACKAGES FOR DRONE RELATED PROGRAMMING
+### On Laptop
+* Betaflight Configurator
+* Arduino IDE
+* Raspberry Pi Imager
+### On Phone
+* Raspcontroller
 
 ## Acknowledgements
-Special thanks to the ELEC5552 course staff and students for their invaluable feedback and support.
+This project is made possible thanks to the contributions as well as feedback of the open-source hardware community and the support of the ELEC5552 course staff and students.
 
 ## Licence
-The CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P) was chosen for its commitment to transparency and collaboration, allowing unrestricted use, modification, and distribution of the hardware designs and documentation. This license facilitates innovation and sharing within the community, ensuring that all adaptations and improvements remain openly accessible under the same terms.
+The CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P) was chosen for its commitment to transparency and collaboration, allowing unrestricted use, modification, and distribution of the hardware designs and documentation. This license facilitates innovation and sharing within the community, ensuring that all adaptations and improvements remain openly accessible under the same terms. 
 
-## Contributers
+## Contributors
 * Shraddha Domdala 
 * Sharla Greyvenstein 
 * Kate Miller 
