@@ -14,8 +14,8 @@ The UWA Aviation Labs (UWAAL) consists of staff and students dedicated to develo
 | 3D CAD Design             | For 3D Printed Shroud Design              |
 | Code                      | Includes pseudocode, code-flow diagrams, and programming files                               |
 | Construction and Risks    | Documentation on construction procedures and risk assessments associated with the project |
-| Schematics                | Schematics for drone, outlining the various connections                           |
 | Manual                    | Instructions for operation, safety and maintenance                     |
+| Schematics                | Schematics for drone, outlining the various connections                           |
 
 ## Required Applications
 * INCLUDE ANY SOFTWARE PACKAGES FOR DRONE RELATED PROGRAMMING
