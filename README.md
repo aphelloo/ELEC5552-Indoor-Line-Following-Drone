@@ -26,7 +26,7 @@ The UWA Aviation Labs (UWAAL) consists of staff and students dedicated to develo
 * Raspcontroller
 
 ## Acknowledgements
-This project is made possible thanks to the contributions as well as feedback of the open-source hardware community and the support of the ELEC5552 course staff and students.
+This project is made possible by contributions and feedback from the open-source hardware community, with support from ELEC5552 course staff and students.
 
 ## Licence
 The CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P) was chosen for its commitment to transparency and collaboration, allowing unrestricted use, modification, and distribution of the hardware designs and documentation. This license facilitates innovation and sharing within the community, ensuring that all adaptations and improvements remain openly accessible under the same terms. 
